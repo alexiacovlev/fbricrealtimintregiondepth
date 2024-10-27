@@ -14,3 +14,8 @@ Lab 06-Data Activator(Optional)
 Lab 07-Advanced KQL(Optional)
 
 Lab 08-File Maintenance(Optional)
+
+
+User Credentials
+Username	aoaitfs9768@technofocus.live
+Password	Os8"Pv7?
